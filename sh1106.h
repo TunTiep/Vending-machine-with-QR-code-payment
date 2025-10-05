@@ -29,8 +29,8 @@ extern "C" {
 
 /* I2C address */
 #ifndef SH1106_I2C_ADDR
-#define SH1106_I2C_ADDR         0x78
-//#define SH1106_I2C_ADDR       0x7A
+#define SH1106_I2C_ADDR         0x3C
+//#define SH1106_I2C_ADDR       0x78  // Alternative address
 #endif
 
 /* SH1106 settings */
