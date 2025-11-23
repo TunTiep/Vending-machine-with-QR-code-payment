@@ -3,7 +3,7 @@ Command comparison between ST7565, NT7534, IST3020, SPLC502, SSD1815, UC1701 and
 
 Note: For multi-byte sequences, only the first byte is considered.
 
-use monospaced font for this txt file
+use monospaced font for this txt file 
 
                ST7565      ST7565      NT7534      	UC1701		ST7567		IST3020		SPLC502		SSD1815		UC1601s		ST7567          S1D15300        ST7539          SED1530
 	       1.0a/2002   1.7c/2009													0.6/2007	1.2a/2016    
